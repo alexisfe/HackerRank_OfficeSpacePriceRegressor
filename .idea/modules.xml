@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Predicting_Laptop_Battery_Life/.idea/Predicting_Laptop_Battery_Life.iml" filepath="$PROJECT_DIR$/../Predicting_Laptop_Battery_Life/.idea/Predicting_Laptop_Battery_Life.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Predicting_Office_Space_Price/.idea/Predicting_Office_Space_Price.iml" filepath="$PROJECT_DIR$/../Predicting_Office_Space_Price/.idea/Predicting_Office_Space_Price.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SIOC_Testing_Classifier/.idea/SIOC_Testing_Classifier.iml" filepath="$PROJECT_DIR$/../SIOC_Testing_Classifier/.idea/SIOC_Testing_Classifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TitanicSurvivalClassifier/.idea/TitanicSurvivalClassifier.iml" filepath="$PROJECT_DIR$/../TitanicSurvivalClassifier/.idea/TitanicSurvivalClassifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/untitled.iml" filepath="$PROJECT_DIR$/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>

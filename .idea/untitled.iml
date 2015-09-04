@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Predicting_Laptop_Battery_Life" />
+    <orderEntry type="module" module-name="Predicting_Office_Space_Price" />
+    <orderEntry type="module" module-name="TitanicSurvivalClassifier" />
+    <orderEntry type="module" module-name="SIOC_Testing_Classifier" />
+  </component>
+</module>
